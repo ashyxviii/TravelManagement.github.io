@@ -27,8 +27,8 @@ Modern TMS platforms also provide real-time updates on bookings, delays, or canc
 
 ## 🌐 Find Me Online
 
-- [GitHub]
-- [LinkedIn](
+- [GitHub] https://github.com/ashyxviii/TravelManagement.github.io
+- [LinkedIn] https://www.linkedin.com/in/ashy-kadam-733593300/
 ## Portfolio Highlights
 
 ### 🎯 Topic: 
